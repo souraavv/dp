@@ -49,3 +49,9 @@ int main(){
     
     return 0;
 }
+
+// Problem:  https://codeforces.com/contest/802/problem/J
+// Solution: https://codeforces.com/contest/208/submission/71412132
+
+// Problem 1: https://codeforces.com/contest/802/problem/K
+// solution : https://codeforces.com/contest/802/submission/70599690
