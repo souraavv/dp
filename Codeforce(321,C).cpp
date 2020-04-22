@@ -60,10 +60,9 @@ int main(){
           ans++;
          
     cout<<ans<<endl;
-    
+   
     return 0;
 }
 
 
 // Problem: https://codeforces.com/contest/580/problem/C
-// Soluion: https://codeforces.com/contest/580/submission/59972348
