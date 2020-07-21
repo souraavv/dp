@@ -52,3 +52,5 @@ int main(){
     }
     
 }
+
+// https://www.codechef.com/COJK2020/problems/CKOJ20C
