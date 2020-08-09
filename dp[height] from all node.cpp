@@ -1,3 +1,5 @@
+// max distance node from each node.
+
 #include<bits/stdc++.h>
 using namespace std;
 #define N 1000
