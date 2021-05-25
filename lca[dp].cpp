@@ -69,6 +69,6 @@ int main(){
 /*
 
 Problem: https://codeforces.com/contest/208/problem/E
-Solution : https://codeforces.com/contest/208/submission/71412132
+
 
 */
